@@ -1,0 +1,14 @@
+html {font-family: sans-serif; text-align: center}
+body {display: inline-block; text-align: left}
+button{background-color: red; color: white; font-weight:bold; border-radius: 5px; border: none; margin: auto; padding: 0.5em; box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.6)}
+img{border: 1.5px solid outset; }
+label, legend {font-weight: bold}
+*:required {border: thin solid blue}
+input{padding: 0.5em;}
+footer{
+	text-align: center;
+	font-size: small;
+	border-top: 1px black solid;
+	margin-top: 1em;
+	padding: 1em;
+}
